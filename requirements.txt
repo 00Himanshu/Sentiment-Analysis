@@ -1,7 +1,1 @@
-pandas
-sklearn
-sklearn.model_selection
-sklearn.pipeline
-sklearn.feature_extraction.text
-sklearn.linear_model
 joblib
